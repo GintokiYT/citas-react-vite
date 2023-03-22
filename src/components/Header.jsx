@@ -4,6 +4,7 @@ const Header = () => {
       <h1 className='flex flex-col px-4 sm:px-0 font-black text-4xl sm:text-5xl text-center'>
       <span>Seguimiento Pacientes</span>
       <span className='text-indigo-600'>Veterinaria</span>
+      <span className='text-slate-700 text-lg'>Con Github</span>
     </h1>
     </header>
   );
